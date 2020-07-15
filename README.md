@@ -1,5 +1,3 @@
 # quantum
 
-# Denis Lira
-
-[Mavic](https://denis-li.github.io/quantum/ "Quantum")
+[Quantum](https://denis-li.github.io/quantum/ "Quantum")
