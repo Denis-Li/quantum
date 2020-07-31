@@ -4,3 +4,6 @@
 .vs
 node_modules/
 app/scss/
+gulpfile.js
+package.json
+
